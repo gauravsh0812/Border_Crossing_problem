@@ -4,7 +4,7 @@ import csv
 
 # address of the csv_file
 
-csv_file = (r'C:\Users\gaura\OneDrive\Desktop\Insight_DE\border-crossing-analysis-master\border-crossing-analysis-master\insight_testsuite\tests\test_1\input\Border_Crossing_Entry_Data.csv')
+csv_file = (r'https://raw.githubusercontent.com/gauravsh0812/Border_Crossing_problem/master/border-crossing-analysis-master/insight_testsuite/tests/test_1/input/Border_Crossing_Entry_Data.csv?token=ANTY66BRQPHJSMCI5PNBS3C6JUSVY')
 
 # function for writing list that will be used to produce final csv file
 
